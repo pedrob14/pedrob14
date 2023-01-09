@@ -35,7 +35,7 @@
   <a href="https://instagram.com/pedrob14" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
  
-![snake animation](https://github.com/pedrob14/pedrob14/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/pedrob14/pedrob14/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
