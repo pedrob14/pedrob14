@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/pedrob14">
-    <img heigth="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrob14&theme=react" />
+    <img heigth="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrob14&theme=tokyonight" />
   </a>
 </div>
   
