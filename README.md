@@ -2,7 +2,7 @@
 <div>
 <p>🧑🏻‍🎓 Graduado em Sistemas de Computação na Universidade Federal Fluminense </p>
 <p>📚 MBA em Negócios e Gestão de Pessoas</p>
-<p>💻 Habilidades: HTML, CSS, JavaScrip, TypeScript, React, Node.js, C#, Python e Git </p>
+<p>💻 Habilidades: HTML, CSS, JavaScrip, TypeScript, React, Node.js, C# e Python </p>
 </div>
 
 ##
