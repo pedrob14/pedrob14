@@ -1,6 +1,6 @@
 # Pedro Henrique
 <div>
-<p>🧑🏻‍🎓 Graduado em Sistemas de Computação na Universidade Federal Fluminense </p>
+<p>🎓 Graduado em Sistemas de Computação na Universidade Federal Fluminense </p>
 <p>📚 MBA em Negócios e Gestão de Pessoas</p>
 <p>💻 Habilidades: HTML, CSS, JavaScrip, TypeScript, Node.js, React, React Native, C# e Python </p>
 </div>
