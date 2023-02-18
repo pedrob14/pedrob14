@@ -3,6 +3,7 @@
 <p>🎓 Graduado em Sistemas de Computação na Universidade Federal Fluminense </p>
 <p>📚 MBA em Negócios e Gestão de Pessoas</p>
 <p>👨🏻‍💻 Cursando Pós-graduação em Análise e Desenvolvimento de Sistemas
+<p>📊 Cursando Pós-graduação em Análise de Dados
 <p>💻 Habilidades: HTML, CSS, JavaScrip, TypeScript, Node.js, React, React Native, C# e Python </p>
 </div>
 
