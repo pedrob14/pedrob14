@@ -34,8 +34,7 @@
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  
-  <img align="right" alt="Pedro-pic" height="140" style="border-radius:50px;" src="https://becode.com.br/wp-content/uploads/2017/05/Come%C3%A7ar-com-Java.gif">
+
 </div>
   
   ##
